@@ -123,6 +123,6 @@ Operational-Delay-Analysis-SQL/
 
 ## Author
 
-**CRX**
+**Chetan Suraswal**
 Aspiring Data Analyst
 Focused on Business Impact Analytics
